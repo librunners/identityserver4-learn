@@ -1,2 +1,2 @@
-# identityserver4-learn
-学习IdentityServer4的使用
+# identityserver4
+主要用于记录IdentityServer4的学习和使用过程
